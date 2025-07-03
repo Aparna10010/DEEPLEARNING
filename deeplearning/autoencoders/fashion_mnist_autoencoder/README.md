@@ -35,6 +35,11 @@ This project explores two approaches to image classification using the [Fashion-
 
 - `Fashion_mnist.ipynb`: Full notebook with code, training, evaluation & visualizations.
 - `README.md`: This file.
+- models/
+  - fashion_autoencoder.h5
+  - fashion_encoder.h5
+  - cnn_fashion_mnist.h5
+  - logistic_model.pkl
 ---
 
 ## Sample Results
@@ -45,5 +50,9 @@ This project explores two approaches to image classification using the [Fashion-
 | CNN Classifier            | ~89–91%    |
 
 ---
+##  Tools
+- Python
+- TensorFlow / Keras
+- scikit-learn
 
 
