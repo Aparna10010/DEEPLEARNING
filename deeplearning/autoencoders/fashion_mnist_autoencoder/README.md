@@ -1,4 +1,4 @@
-# Fashion MNIST - Autoencoder + Classifier & CNN Classifier
+# Fashion MNIST - CNN Classifier &  Autoencoder + Classifier 
 
 This project explores two approaches to image classification using the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist):
 
