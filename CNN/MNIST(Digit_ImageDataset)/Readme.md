@@ -32,6 +32,7 @@ This project applies a Convolutional Neural Network (CNN) to classify handwritte
 
 ### 2. Data Visualization
 - Visualized sample handwritten digit images with their labels
+![Training Image](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/MNIST(Digit_ImageDataset)/TrainigImagePreview.png)
 
 ### 3. Data Augmentation
 - Applied augmentation using ImageDataGenerator:
@@ -64,7 +65,7 @@ This project applies a Convolutional Neural Network (CNN) to classify handwritte
 
 ### 📊 Accuracy & Loss Curves
 
-![Accuracy & Loss Curves]()
+![Accuracy & Loss Curves](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/MNIST(Digit_ImageDataset)/loss_accuracy_curve.png)
 
 ---
 
@@ -80,7 +81,7 @@ This project applies a Convolutional Neural Network (CNN) to classify handwritte
 Image: [28x28 image] True Label: 7
 Predicted Label: 7 ✅
 
-![Predicted Label]()
+![Predicted Label](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/MNIST(Digit_ImageDataset)/Predicted%20Label.png)
 ---
 
 ## ⚠️ Limitations
