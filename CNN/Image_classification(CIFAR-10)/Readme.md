@@ -95,6 +95,7 @@ This project applies a *Convolutional Neural Network (CNN)* to classify images f
 
 ## 📁 Folder Structure
 
+```
 cifar10-cnn/ 
 ├── CIFAR-10_NN.ipynb
 ├── cifar10_cnn_model.h5 
@@ -103,6 +104,7 @@ cifar10-cnn/
 │   ├── confusion_matrix.png 
 │   └── classification_report.png
 └── README.md
+```
 
 
 ---
