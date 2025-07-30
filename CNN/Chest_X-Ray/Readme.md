@@ -99,14 +99,14 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 
 chest-xray-cnn/
 │
-├── kaggle.json 
-├── chest_xray.zip 
-├── chest_xray/                 
-# Unzipped dataset (train/val/test) 
-├── model_training.ipynb 
-├── results/ │  
-├── loss_accuracy_plot.png
-└── README.md
+- ├── kaggle.json 
+- ├── chest_xray.zip 
+- ├── chest_xray/                 
+## Unzipped dataset (train/val/test) 
+- ├── model_training.ipynb 
+- ├── results/ │  
+- ├── loss_accuracy_plot.png
+- └── README.md
 
 ---
 
