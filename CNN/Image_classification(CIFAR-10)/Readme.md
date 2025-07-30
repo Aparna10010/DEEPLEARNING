@@ -34,6 +34,9 @@ This project applies a *Convolutional Neural Network (CNN)* to classify images f
 
 ### 2. Data Visualization
 - Displayed a grid of sample training images with their labels
+![Trainig Images](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/Image_classification(CIFAR-10)/Original_img_preview.png)
+
+---
 
 ### 3. Data Augmentation
 - Real-time augmentation applied to training data using ImageDataGenerator:
@@ -66,17 +69,17 @@ This project applies a *Convolutional Neural Network (CNN)* to classify images f
 
 ### 📉 Accuracy & Loss Curves
 
-![Accuracy and Loss Curves](results/loss_accuracy_plot.png)
+![Accuracy and Loss Curves](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/Image_classification(CIFAR-10)/loss_accuracy_curve.png)
 
 ---
 
 ## 🧾 Classification Report
-![Classification Report](results/loss_accuracy_plot.png)
+![Classification Report](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/Image_classification(CIFAR-10)/Classification%20Report.png)
 
 ---
 
 ### 🧮 Confusion Matrix
-![Confusion Matrix](results/loss_accuracy_plot.png)
+![Confusion Matrix](https://github.com/Aparna10010/DEEPLEARNING/blob/main/CNN/Image_classification(CIFAR-10)/ConfusionMatrix.png)
 
 ---
 
