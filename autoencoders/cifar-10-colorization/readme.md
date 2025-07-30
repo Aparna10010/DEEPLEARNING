@@ -54,7 +54,7 @@ This project demonstrates how to colorize grayscale images using a *Dense Autoen
 ## 📌 Folder Structure
 
 ```📁 cifar10_colorization/
-├── model_training.ipynb               # Jupyter notebook for training the model
+├── AE(Colorization_CIFAR-10).ipynb               # Jupyter notebook for training the model
 ├── loss_curve_plot.png                # Plot of training/validation loss
 ├── results_visualization/            # Folder containing visual output comparisons
 │   └── original_vs_grayscale_vs_reconstructed.png
