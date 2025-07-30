@@ -1,0 +1,10 @@
+                       precision    recall  f1-score   support
+
+ diseased cotton leaf       0.96      1.00      0.98        25
+diseased cotton plant       0.96      0.96      0.96        28
+    fresh cotton leaf       1.00      1.00      1.00        26
+   fresh cotton plant       0.96      0.93      0.94        27
+
+             accuracy                           0.97       106
+            macro avg       0.97      0.97      0.97       106
+         weighted avg       0.97      0.97      0.97       106
