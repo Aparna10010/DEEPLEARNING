@@ -104,10 +104,11 @@ Predicted Label: 7 ✅
 
 ```
 mnist-cnn/ │
-├── mnist_cnn.ipynb 
-├── mnist_cnn.h5 
-├── mnist_curves.png │
-├── predictions_grid.png
+├── MNIST_CNN.ipynb 
+├── mnist_digit_classifier.h5 
+├── loss_accuracy_curve.png │
+├── TrainingImagePreview.png
+├── Predicted_Label.png
 └── README.md
 ```
 ---
